@@ -5,3 +5,4 @@ The goal of this project was to create an automated pet feeder capable of mainta
 
 # Hardware
 ![petfeeder!](petfeeder.png)
+<img src="petfeeder.png" alt="petfeeder" width="200"/>
